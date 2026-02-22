@@ -1,0 +1,148 @@
+[
+  {
+    "category": "Riddle",
+    "question": "What has keys but can't open locks?",
+    "answer": "keyboard",
+    "hints": ["You use it every day on a computer.", "It has letters and numbers.", "You type on it."],
+    "explanation": "A keyboard has keys, but they do not open physical locks.",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Math",
+    "question": "I am an odd number. Take away one letter and I become even. What number am I?",
+    "answer": "seven",
+    "hints": ["It is a single-digit number.", "Remove the first letter.", "The remaining word is 'even'."],
+    "explanation": "Seven becomes 'even' when the 's' is removed.",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Logic",
+    "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+    "answer": "m",
+    "hints": ["Think letters, not time.", "Look at the spelling of the words.", "It's a single letter."],
+    "explanation": "The letter 'm' appears once in 'minute', twice in 'moment', and not at all in 'thousand years'.",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Riddle",
+    "question": "What gets wetter the more it dries?",
+    "answer": "towel",
+    "hints": ["You use it after a shower.", "It absorbs water.", "It's made of fabric."],
+    "explanation": "A towel gets wet while drying something else.",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Wordplay",
+    "question": "What 5-letter word becomes shorter when you add two letters to it?",
+    "answer": "short",
+    "hints": ["The answer is the word itself.", "You add 'er'.", "It becomes 'shorter'."],
+    "explanation": "Adding 'er' to 'short' makes 'shorter'.",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Logic",
+    "question": "What has hands but cannot clap?",
+    "answer": "clock",
+    "hints": ["It hangs on a wall or sits on a desk.", "It tells time.", "It has hour and minute hands."],
+    "explanation": "A clock has hands but cannot clap.",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Riddle",
+    "question": "What has a face and two hands but no arms or legs?",
+    "answer": "clock",
+    "hints": ["It tells time.", "You can wear one on your wrist.", "It has hour and minute hands."],
+    "explanation": "A clock has a face and hands but no limbs.",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Pattern",
+    "question": "What comes next in the sequence: 2, 4, 8, 16, ?",
+    "answer": "32",
+    "hints": ["Each number is multiplied by the same amount.", "The multiplier is 2.", "16 × 2 = ?"],
+    "explanation": "Each number doubles, so 16 becomes 32.",
+    "difficulty": "easy"
+  },
+
+  {
+    "category": "Logic",
+    "question": "A farmer has 17 sheep and all but 9 run away. How many are left?",
+    "answer": "9",
+    "hints": ["Read carefully.", "All but 9 means all except 9.", "So 9 remain."],
+    "explanation": "'All but 9' means 9 sheep are left.",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Math",
+    "question": "If two's company and three's a crowd, what are four and five?",
+    "answer": "nine",
+    "hints": ["This is a wordplay math joke.", "Add the numbers.", "4 + 5 = ?"],
+    "explanation": "Four and five make nine.",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Wordplay",
+    "question": "What word is pronounced the same if you take away four of its five letters?",
+    "answer": "queue",
+    "hints": ["It's often seen when waiting in line.", "It has repeated vowels.", "Remove 'ueue' and it still sounds the same."],
+    "explanation": "'Queue' is pronounced like just 'Q'.",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Logic",
+    "question": "What can travel around the world while staying in a corner?",
+    "answer": "stamp",
+    "hints": ["Think mail.", "It sticks to an envelope.", "It's placed near the edge."],
+    "explanation": "A stamp can travel globally on mail while staying in the envelope's corner.",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Riddle",
+    "question": "I speak without a mouth and hear without ears. What am I?",
+    "answer": "echo",
+    "hints": ["It's a sound phenomenon.", "It repeats what you say.", "Often heard in caves or mountains."],
+    "explanation": "An echo repeats sound without a mouth or ears.",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Pattern",
+    "question": "Find the missing number: 1, 1, 2, 3, 5, 8, ?",
+    "answer": "13",
+    "hints": ["Each term is the sum of the two previous terms.", "This is the Fibonacci sequence.", "5 + 8 = ?"],
+    "explanation": "The next Fibonacci number after 8 is 13.",
+    "difficulty": "medium"
+  },
+
+  {
+    "category": "Logic",
+    "question": "You see a boat filled with people, yet there isn't a single person on board. How is that possible?",
+    "answer": "all are married",
+    "hints": ["The phrase 'single person' is key.", "It refers to relationship status.", "No one on board is unmarried."],
+    "explanation": "There is no single person because everyone is married.",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Riddle",
+    "question": "The more you take, the more you leave behind. What are they?",
+    "answer": "footsteps",
+    "hints": ["Think of movement.", "You make them while walking.", "They mark where you've been."],
+    "explanation": "As you take more steps, you leave more footsteps behind.",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Logic",
+    "question": "A man shaves several times a day, yet he still has a beard. Who is he?",
+    "answer": "barber",
+    "hints": ["It's his job.", "He shaves other people.", "He works in a shop."],
+    "explanation": "A barber shaves customers but may keep his own beard.",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Math",
+    "question": "What is the next number: 1, 11, 21, 1211, 111221, ?",
+    "answer": "312211",
+    "hints": ["It's a look-and-say sequence.", "Read the previous term aloud by counts.", "111221 = three 1s, two 2s, one 1."],
+    "explanation": "111221 is read as 'three 1s, two 2s, one 1' → 312211.",
+    "difficulty": "hard"
+  }
+]
