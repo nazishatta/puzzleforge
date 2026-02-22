@@ -1,4 +1,4 @@
-# PuzzleForge 🧩
+# PuzzleForge 
 
 A terminal-based puzzle game built for hackathon demos.
 
